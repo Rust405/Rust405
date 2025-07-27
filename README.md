@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rust405 or 赤錆
-- 👀 I’m interested in random projects that pique my interest
-- 🌱 I’m currently learning Kotlin, Dart, Javascript, Python, C, C#, Java, PHP
+Russell's the name, though you can call me Rust. 
+
+Currently doing my Masters in IT, no idea what I'm gonna do after that - _- 
 
 <!---
 Rust405/Rust405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
